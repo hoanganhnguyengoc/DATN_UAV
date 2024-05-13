@@ -1,7 +1,7 @@
 # Predict safe direction
 ## Install libs
 ```
-git clone https://github.com/duy1009/PD.git
+git clone https://github.com/hoanganhnguyengoc/DATN_UAV.git 
 cd PD
 pip install -r requirements.txt
 ```
