@@ -79,4 +79,4 @@ line 4: from networks.model import UAM8
 6. Train your network
 
 ## Dataset
-https://drive.google.com/drive/folders/1kqsH3Euh508KX8AiFAjiLOC94k9FURxR?usp=sharing
+https://drive.google.com/drive/folders/11r2s1JFfA4tbBmLlLXCs6qYSWNseENm8?usp=drive_link
